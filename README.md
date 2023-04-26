@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JavonDee
 - 👀 I’m interested in video games
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on games
 
-- 📫 How to reach me email me at javondentremont@student.scit.org
+- 📫 How to reach me email me at javondentremont1312@gmail.com
 
 
 <!---
